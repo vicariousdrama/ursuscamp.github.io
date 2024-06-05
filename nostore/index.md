@@ -1,4 +1,4 @@
-<img src="assets/nostore/Icon-512.png" width="25%">
+<img src="../assets/nostore/Icon-512.png" width="25%">
 
 # Nostore
 
@@ -14,7 +14,7 @@ A [NIP-07][nip07] compatible browser extension for Safari.
 
 ## Usage
 
-<img src="assets/nostore/nostore1.png" width="40%">
+<img src="../assets/nostore/nostore1.png" width="40%">
 
 1. Install the Nostore app. Safari web extensions must come wrapped in an application.
 2. After the wrapper app has been installed, activate the extension under Safari settings.
